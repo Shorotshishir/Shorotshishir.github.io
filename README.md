@@ -34,7 +34,7 @@ Unity Developer (AR, VR, MR, PC), Azure Serverless cloud infrastructure develope
 |April 2022 - Present | VR Development Lead PremiumARTS Inc. (Tokyo Japan) |
 |November 2019 - March 2022| Software Developer at Hokuto System Ltd. (Hokkaido, Japan)|
 |July 2019 - October 2019| Trainee at BJET (Bangladesh-Japan Engineer's Training)|
-|||
+|Feb 2018 - Nov 2018|Intern, Supply Chain Management, SQ Group (Dhaka, Bangladesh)|
 
 ## Skill
 
