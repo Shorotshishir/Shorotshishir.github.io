@@ -1,6 +1,6 @@
 # S M Siratim Mustaquim <!-- omit from toc -->
 
-Unity Developer (AR, VR, MR, PC), Azure Serverless cloud infrastructure developer,
+Unity Developer (AR, VR, MR, PC, Mobile), Azure Serverless cloud infrastructure developer,
 
 |Contacts||
 |---|---|
@@ -63,6 +63,13 @@ Unity Developer (AR, VR, MR, PC), Azure Serverless cloud infrastructure develope
 |MRTK|A|
 |SteamVR|B|
 |Meta SDK|B|
+|Unity for Babylon|B|
+|dotnet|B|
+|Entity Framework|B|
+|grpc|B|
+|flutter|B|
+|django|C|
+
 
 ### Cloud (Azure)
 
