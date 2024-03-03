@@ -7,6 +7,9 @@ Unity Developer (AR, VR, MR, PC, Mobile), Azure Serverless cloud infrastructure 
 |Linkedin Profile | [LinkedIn](https://www.linkedin.com/in/siratimmustaquim/)|
 |Email | [tanzim121@gmail.com](mailto:tanzim121@gmail.com)|
 
+## Summary
+A computer Sceience and Engineering gradudate from BRAC University, Working in Japan as a Software Developer for over 4 years. Currently Working in a Tokyo Based software company PremiumARTS. Working as an Intern in One of the Largest Apparel Manufacturing compnay SQ Group provided me with a very unique experience of business relationship and cross cultural communication. I started my software development career in Hokuto System, as Hokkaido based software development company where I developed worked C# programing language in Unity Game Engine and WebBackend development in dotnet. I currently work in Unity Game Engine deevloping software for multiple platforms, such as AR VR MR, PC Standalone, iOS, Android, WebGL. Along with Cloud based Digital Twin Solutions with Microsoft Azure. My Objective is to develop reliable 3D softwares that are easy to use and easy to maintain with the power of Unity and Azure Cloud Platform 
+
 ## Navigation <!-- omit from toc -->
 
 - [Personal Work](#personal-work)
