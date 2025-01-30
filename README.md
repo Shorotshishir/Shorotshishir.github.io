@@ -8,7 +8,7 @@ Unity Developer (AR, VR, MR, PC, Mobile), Azure Serverless cloud infrastructure 
 | Email            | [tanzim121@gmail.com](mailto:tanzim121@gmail.com)         |
 
 ## Summary <!-- omit from toc -->
-A Computer Science and Engineering graduate from [BRAC University](https://www.bracu.ac.bd/), Working in Japan as a Software Developer for over 4 years. Currently Working in a Tokyo Based software company PremiumARTS. Working as an Intern in One of the Largest Apparel Manufacturing company SQ Group provided me with a very unique experience of business relationship and cross cultural communication. I started my software development career in Hokuto System, as Hokkaido based software development company where I developed worked C# programming language in Unity Game Engine and WebBackend development in dotnet. I currently work in Unity Game Engine developing software for multiple platforms, such as AR VR MR, PC Standalone, iOS, Android, WebGL. Along with Cloud based Digital Twin Solutions with Microsoft Azure. My Objective is to develop reliable 3D softwares that are easy to use and easy to maintain with the power of Unity and Azure Cloud Platform 
+A Computer Science and Engineering graduate from [BRAC University](https://www.bracu.ac.bd/), Working in Japan as a Software Developer for over 5 years. Currently Working in a Tokyo Based software company PremiumARTS. Working as an Intern in One of the Largest Apparel Manufacturing company SQ Group provided me with a very unique experience of business relationship and cross cultural communication. I started my software development career in Hokuto System, as Hokkaido based software development company where I developed worked C# programming language in Unity Game Engine and WebBackend development in dotnet. I currently work in Unity Game Engine developing software for multiple platforms, such as AR VR MR, PC Standalone, iOS, Android, WebGL. Along with Cloud based Digital Twin Solutions with Microsoft Azure. My Objective is to develop reliable 3D softwares that are easy to use and easy to maintain with the power of Unity and Azure Cloud Platform.
 
 ## Navigation <!-- omit from toc -->
 
@@ -116,16 +116,18 @@ A Computer Science and Engineering graduate from [BRAC University](https://www.b
 | **GRPC Client and Server** | A gRPC based client server implementation in unity                            | [Source Code](https://github.com/Shorotshishir/grpc)                                                                                                  |
 | **Translator**             | A python based translator application for Windows, uses google translator API | [Source Code](https://github.com/Shorotshishir/translator-gui)<br/>[Download Exe](https://github.com/Shorotshishir/translator-gui/releases/tag/0.1.1) |
 | **QRGenerator**            | A dotnet based QR generator application                                       | [Source Code](https://github.com/Shorotshishir/QRGenerator)                                                                                           |
-| **Personal Blog**          | Personal Blog made in django web framework                                    | [Link](https://tanzims-django-blog.herokuapp.com/)                                                                                                    |
+| **Personal Blog**          | A blog site for regular updates on tech and books that I am reading           | [Link](https://sm-siratim.net/blog)                                                                                                                   |
+| **Django Blog**            | A blog mostly about django made in django web framework                       | [Link](https://tanzims-django-blog.herokuapp.com/)                                                                                                    |
 
 ## Career History
 
-| Duration                   | Position (location)                                                                      |
-| -------------------------- | ---------------------------------------------------------------------------------------- |
-| April 2022 - Present       | VR Development Lead at [PremiumARTS Inc](https://www.premiumartsinc.com/). (Tokyo Japan) |
-| November 2019 - March 2022 | Software Developer at [Hokuto System Ltd](https://www.hscnet.co.jp/). (Hokkaido, Japan)  |
-| July 2019 - October 2019   | Trainee at BJET (Bangladesh-Japan Engineer's Training)                                   |
-| Feb 2018 - Nov 2018        | Intern, Supply Chain Management, SQ Group (Dhaka, Bangladesh)                            |
+| Duration                    | Position (location)                                                                                                         |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| October 2024 - Present      | Unity Developer (Dispatch) at [Woven by Toyota](https://woven.toyota/en/) (Tokyo Japan)                                     |
+| April 2022 - September 2024 | VR Development Lead at [PremiumARTS Inc](https://www.premiumartsinc.com/). (Tokyo Japan)                                    |
+| November 2019 - March 2022  | Software Developer at [Hokuto System Ltd](https://www.hscnet.co.jp/). (Hokkaido, Japan)                                     |
+| July 2019 - October 2019    | Trainee at [BJET](https://www.jica.go.jp/bangladesh/bangland/b-jet.html) (Bangladesh-Japan ICT Engineers' Training Program) |
+| Feb 2018 - Nov 2018         | Intern, Supply Chain Management, SQ Group (Dhaka, Bangladesh)                                                               |
 
 ## Skill
 
