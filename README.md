@@ -1,6 +1,6 @@
 # S M Siratim Mustaquim <!-- omit from toc -->
 
-Unity Developer (AR, VR, MR, PC, Mobile), Azure Serverless cloud infrastructure developer,
+A real-time system developer with expertise in dotnet (csharp) , Unity, Cloud (Azure and AWS) and backend system.
 
 | Contacts         |                                                           |
 | ---------------- | --------------------------------------------------------- |
@@ -8,7 +8,7 @@ Unity Developer (AR, VR, MR, PC, Mobile), Azure Serverless cloud infrastructure 
 | Email            | [tanzim121@gmail.com](mailto:tanzim121@gmail.com)         |
 
 ## Summary <!-- omit from toc -->
-A Computer Science and Engineering graduate from [BRAC University](https://www.bracu.ac.bd/), Working in Japan as a Software Developer for over 5 years. Currently Working in a Tokyo Based software company PremiumARTS. Working as an Intern in One of the Largest Apparel Manufacturing company SQ Group provided me with a very unique experience of business relationship and cross cultural communication. I started my software development career in Hokuto System, as Hokkaido based software development company where I developed worked C# programming language in Unity Game Engine and WebBackend development in dotnet. I currently work in Unity Game Engine developing software for multiple platforms, such as AR VR MR, PC Standalone, iOS, Android, WebGL. Along with Cloud based Digital Twin Solutions with Microsoft Azure. My Objective is to develop reliable 3D softwares that are easy to use and easy to maintain with the power of Unity and Azure Cloud Platform.
+A Computer Science and Engineering graduate from [BRAC University](https://www.bracu.ac.bd/), Working in Japan as a Software Developer for over 6 years. Currently Working in a Tokyo Based software company Woven by Toyota as Haken-sha. Early on in my career Working as an Intern in One of the Largest Apparel Manufacturing company of Bangladesh, SQ Group, provided me with a very unique experience of business relationship and cross cultural communication. I started my software development career in Hokuto System, as Hokkaido based software development company where I developed worked C# programming language in Unity Game Engine and WebBackend development in dotnet. I currently work in Unity Game Engine developing software for multiple platforms, such as AR VR MR, PC Standalone, iOS, Android, WebGL. Along with Cloud based Digital Twin Solutions with Microsoft Azure. My Objective is to develop reliable softwares that are easy to use and easy to maintain with the power of 3D and Cloud Platform.
 
 ## Navigation <!-- omit from toc -->
 
@@ -23,6 +23,12 @@ A Computer Science and Engineering graduate from [BRAC University](https://www.b
   - [Cloud (AWS)](#cloud-aws)
 
 ## Professional Works
+
+- **Driver Status Analysis (DSA) Simulation Platform** : Research and Development of Real-time driver monitoring simulation platform integrating gaze tracking, hazard detection, and in-cabin safety judgement logic.
+  - *Responsibilities*: Read and analyze Academic paper, Create Hypothesis and Proposal. Design and implementation of safety judgement logic. DMS pipeline integration (MediaPipe and modular DLL-based implementations). Gaze visualization and hazard detection systems. Logging and performance optimization. Multi-workspace real-time validation setup
+  - *Preferred Language*: C# (CSharp)
+  - *Technology* : Unity, Mediapipe, LLM, GitHub
+  - *Company*: Woven by Toyota  
 
 - **Live XR Pro : Seat Viewer for Web** : A Theater seat viewing application for users to see what type of view to expect from a specific seat of the theater.
   - *Platform* : Web Platform (WebGL)
@@ -163,7 +169,7 @@ A Computer Science and Engineering graduate from [BRAC University](https://www.b
 | SQL        |        C        |
 | dart       |        C        |
 | Java       |        D        |
-| Rust       |        D        |
+| Rust       |        C        |
 
 ### Frameworks / Libraries
 
